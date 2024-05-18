@@ -1,0 +1,18 @@
+Отчёт о состоянии системы:
+Пользователи системы: root, systemd+, avahi, message+, syslog, lp, tjmaxx, rtkit, kernoops, colord
+Процессов запущено: 211
+Пользовательских процессов:
+root: 124
+systemd+: 2
+avahi: 2
+message+: 1
+syslog: 1
+lp: 6
+tjmaxx: 71
+rtkit: 1
+kernoops: 2
+colord: 1
+Всего памяти используется: 64.2%
+Всего CPU используется: 6.6%
+Больше всего памяти использует: (cinnamon --replace, 6.4%)
+Больше всего CPU использует: (cinnamon --replace, 3.4%)
